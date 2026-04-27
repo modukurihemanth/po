@@ -12,6 +12,9 @@
     padding: 0 !important;
 }
 
+.spinner-border {
+    margin-top: 2em;
+}
 .navbar-nav {
     --bs-nav-link-hover-color: white;
 }
